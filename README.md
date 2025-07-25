@@ -26,3 +26,5 @@ sudo docker run --rm -it -v ${PWD}:/data/ bepipred:3 -i /example_antigens.fasta 
 - Clifford, J. N., Høie, M. H., Deleuran, S., Peters, B., Nielsen, M., & Marcatili, P. (2022). BepiPred-3.0: Improved B-cell epitope prediction using protein language models. Protein science : a publication of the Protein Society, 31(12), e4497. https://doi.org/10.1002/pro.4497
 
 - Moreira, R. S., Filho, V. B., Calomeno, N. A., Wagner, G., & Miletti, L. C. (2022). EpiBuilder: A Tool for Assembling, Searching, and Classifying B-Cell Epitopes. Bioinformatics and biology insights, 16, 11779322221095221. https://doi.org/10.1177/11779322221095221
+
+- BepiPred-3.0 Docker Wrapper: [https://github.com/labioinfoufsc/BepiPred](https://github.com/labioinfoufsc/BepiPred)
