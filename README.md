@@ -27,4 +27,4 @@ sudo docker run --rm -it -v ${PWD}:/data/ bepipred:3 -i /example_antigens.fasta 
 
 - Moreira, R. S., Filho, V. B., Calomeno, N. A., Wagner, G., & Miletti, L. C. (2022). EpiBuilder: A Tool for Assembling, Searching, and Classifying B-Cell Epitopes. Bioinformatics and biology insights, 16, 11779322221095221. https://doi.org/10.1177/11779322221095221
 
-- BepiPred-3.0 Docker Wrapper: [https://github.com/labioinfoufsc/BepiPred](https://github.com/labioinfoufsc/BepiPred)
+- BepiPred-3.0 Docker Wrapper: [https://github.com/labioinfoufsc/BepiPred3Wrapper](https://github.com/labioinfoufsc/BepiPred3Wrapper)
